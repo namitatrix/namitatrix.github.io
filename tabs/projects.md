@@ -8,4 +8,4 @@ title: Projects
 # MIT License
 ---
 
-Here I will describing and sharing some of the projects I am working on. 
+Here I will share some of the projects I am working on. 
