@@ -194,7 +194,7 @@ sitemap_exclude:  # Sitemap will exclude the following items.
     - /projects/
     - /posts/
     - 404.html
-    #- feed.xml
+    - feed.xml
     - sitemap.xml
     - robots.txt
     - redirects.json
