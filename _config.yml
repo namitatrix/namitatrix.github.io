@@ -20,7 +20,7 @@ url: 'https://namitatrix.github.io'
 
 author: Namita Trikannad                  # change to your full name
 
-avatar: /assets/img/sample/avatar.jpg {width = 50% }  # support internet resources
+avatar: /assets/img/sample/avatar.jpg  # support internet resources
 
 github:
   username: namitatrix             # change to your github username
