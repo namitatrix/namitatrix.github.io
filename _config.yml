@@ -96,17 +96,15 @@ permalink: /posts/:title/
 defaults:
   -
     scope:
-      path: ""          # An empty string here means all files in the project
-      type: posts
+      path: about          # An empty string here means all files in the project
     values:
-      layout: post
       comments: true    # Enable comments in posts.
       toc: true         # Display TOC column in posts.
-      location: Post
+      location: About
       breadcrumb:
         -
-          label: Posts
-          url: /
+          label: About
+          url: /tabs/about/
   -
     scope:
       path: _drafts
@@ -126,16 +124,17 @@ defaults:
           url: /tabs/tags/
   -
     scope:
-      path: categories
+      path: ""
+      type: posts
     values:
-      location: Category
+      location: Posts
       breadcrumb:
         -
           label: Home
           url: /
         -
-          label: Categories
-          url: /tabs/categories/
+          label: Posts
+          url: /
   -
     scope:
       path: tabs
