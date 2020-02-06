@@ -8,7 +8,6 @@ title: About
 # MIT License
 ---
 
-## BIOGRAPHY
 
 Hello, I am Namita (pronounded Nuh-Mee-Taa)! I am a student in the MA Biostatistics program at University of California, Berkeley. I am also currently collaboraing on a project with [Dr. Elizabeth Purdom](https://www.stat.berkeley.edu/~epurdom/index.html) in the Department of Statistics at Berkeley, where I wrangle big data sets and apply statistical tools towards the analysis of high dimensional RNA-Seq/Transcriptome data. 
 
