@@ -144,8 +144,8 @@ defaults:
       dynamic_title: true    # Hide title in mobile screens.
       breadcrumb:
         -
-          label: About
-          url: /tabs/about
+          label: Home
+          url: /
   -
     scope:
       path: assets/data
