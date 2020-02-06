@@ -134,19 +134,6 @@ defaults:
           label: Categories
           url: /tabs/categories/
   -
-   ### NEW STUFF
-   scope:
-      path: projects
-    values:
-      location: Projects
-      breadcrumb:
-        -
-          label: Home
-          url: /
-        -
-          label: Projects
-          url: /tabs/projects/
-  -
     scope:
       path: tabs
     values:
@@ -191,7 +178,6 @@ sitemap_exclude:  # Sitemap will exclude the following items.
     - /tabs/
     - /categories/
     - /tags/
-    - /projects/
     - /posts/
     - 404.html
     - feed.xml
