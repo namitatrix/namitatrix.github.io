@@ -125,33 +125,18 @@ defaults:
           label: Tags
           url: /tabs/tags/
   -
-  
-  #  scope:
-   #   path: categories
-   # values:
-   #   location: Category
-   #   breadcrumb:
-    #    -
-     #     label: Home
-     #     url: /
-     #   -
-     #     label: Categories
-      #    url: /tabs/categories/
-  # NEW STUFF
-  -
-     scope:
-      path: about
+    scope:
+      path: categories
     values:
-      location: About
+      location: Category
       breadcrumb:
         -
-         label: About
+          label: Home
           url: /
         -
-          label: About
-          url: /tabs/about/
-      
-     - 
+          label: Categories
+          url: /tabs/categories/
+  -
     scope:
       path: tabs
     values:
@@ -166,8 +151,7 @@ defaults:
       path: assets/data
     values:
       layout: compress
-
-
+      
 sass:
   sass_dir: /assets/css
   style: compressed
