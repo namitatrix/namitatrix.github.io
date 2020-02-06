@@ -15,7 +15,7 @@ In my first year at Berkeley, I also served as a student instructor for undergra
 
 Prior to coming to Berkeley, I was a therapeutics discovery researcher in New York City specializing in high-throughput discovery of small molecule compounds and monoclonal antibodies and I was fortunate enough to work on many exciting collaborative projects with physicians and scientists from Memorial Sloan Kettering Cancer Center, Weil Cornell Medicine and The Rockefeller University. 
 
-I am passionate about applied statistics in the field of medicine and excited to bring together my interest + experience in biomedical research with my statistics + data science skills in the field of personalized medicine! 
+I am passionate about applied statistics in the field of medicine and excited to bring together my interest + experience in biomedical research with my statistics + data science skills to the field of personalized medicine! 
 
 ### Interests
 * High Dimensional Data 
