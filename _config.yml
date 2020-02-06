@@ -104,6 +104,9 @@ defaults:
       toc: true         # Display TOC column in posts.
       location: Post
       breadcrumb:
+       -
+          label: Home
+          url: /
         -
           label: Posts
           url: /
