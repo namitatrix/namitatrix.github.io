@@ -23,4 +23,5 @@ I am passionate about applied statistics in the field of medicine and excited to
 * Genomics 
 * Personalized Medicine 
 
+Feel free to reach out to me via email or connect with me on [Linkedin](https://www.linkedin.com/in/namitatrikannad)!
 
