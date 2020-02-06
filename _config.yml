@@ -124,7 +124,21 @@ defaults:
         -
           label: Tags
           url: /tabs/tags/
+  # NEW STUFF
   -
+    scope:
+      path: about
+    values:
+      location: About
+      breadcrumb:
+        -
+          label: Home
+          url: /
+        -
+          label: About
+          url: /tabs/about/
+  -
+  
     scope:
       path: categories
     values:
