@@ -91,8 +91,8 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-permalink: /tabs/about.md/:title/
-#/posts/:title/
+permalink: /posts/:title/
+
 defaults:
   -
     scope:
