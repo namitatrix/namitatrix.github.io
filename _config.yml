@@ -10,9 +10,9 @@
 
 title: Namita Trikannad                         # the main title
 
-tagline: Biostatistics student @ UC Berkeley  # it will display as the sub-title
+tagline: Biostatistics Student @ UC Berkeley  # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
+description: This is me                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.
 
 # Replace with your domain, e.g. 'https://username.github.io'
